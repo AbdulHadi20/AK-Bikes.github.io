@@ -1,0 +1,20 @@
+$main-color: #a47700;
+$black: #000000;
+$white: #ffffff;
+$bgimg-1: url();
+$bgimg-2:url();
+$bgimg-3: url();
+$font: 'Mulish', sans-serif;
+
+body {
+    font-family: $font;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 5px;
+    background-color: #000000;
+}
